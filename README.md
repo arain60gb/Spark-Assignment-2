@@ -1,3 +1,7 @@
-# Spark-Assignment-2
-This is Spark Foundation Internship Assigment -2
-perdict the optimum numbers of clusters and represent it visually
+# Spark-Assignment-2 : Clustering with Visualization
+
+### Video Source:
+      https://youtu.be/1Hk3fQ_ahIQ
+
+### Description:
+      Current directory contains the Cluster with visualization technique applied on a data set having Flowers images. 
